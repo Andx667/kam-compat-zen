@@ -1,4 +1,4 @@
-# KAM Compat ZEN (kam_compat_zen)
+# KAM Compat ZEN (kam-compat-zen)
 
 Arma 3 mod built on CBA and ACE, packaged with HEMTT. It runs inside large modsets next to other mods and must load cleanly beside them; other mods and missions should be able to build on it.
 

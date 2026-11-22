@@ -23,11 +23,11 @@ Each module has its own CBA setting to hide its menu entry.
 
 Fully open-source. Bug reports, feature requests, and contributions are all welcome.
 
-[GitHub Repository](https://github.com/Andx667/kam_compat_zen)  
-[Report an Issue](https://github.com/Andx667/kam_compat_zen/issues)  
+[GitHub Repository](https://github.com/Andx667/kam-compat-zen)  
+[Report an Issue](https://github.com/Andx667/kam-compat-zen/issues)  
 [Discord](https://discord.gg/ag4v6kxYAa)
 
-Licensed under [MIT](https://github.com/Andx667/kam_compat_zen/blob/main/LICENSE).
+Licensed under [MIT](https://github.com/Andx667/kam-compat-zen/blob/main/LICENSE).
 
 ---
 
