@@ -1,22 +1,22 @@
 # KAM Compat ZEN
 
 <p align="center">
-    <img src="https://github.com/Andx667/kam_compat_zen/blob/main/img/logo.png" alt="KAM Compat ZEN Logo">
+    <img src="https://github.com/Andx667/kam-compat-zen/blob/main/img/logo.png" alt="KAM Compat ZEN Logo">
 </p>
 
 <p align="center">
-    <a href="https://github.com/Andx667/kam_compat_zen/issues">
-        <img src="https://img.shields.io/github/issues-raw/Andx667/kam_compat_zen.svg?style=flat-square&label=Issues" alt="KAM Compat ZEN Issues">
+    <a href="https://github.com/Andx667/kam-compat-zen/issues">
+        <img src="https://img.shields.io/github/issues-raw/Andx667/kam-compat-zen.svg?style=flat-square&label=Issues" alt="KAM Compat ZEN Issues">
     </a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3790323793">
         <img src="https://img.shields.io/steam/downloads/3790323793.svg?style=flat-square&label=Downloads" alt="KAM Compat ZEN Downloads">
     </a>
-    <a href="https://github.com/Andx667/kam_compat_zen/blob/main/LICENSE">
+    <a href="https://github.com/Andx667/kam-compat-zen/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="KAM Compat ZEN License">
     </a>
     <br>
-    <img src="https://img.shields.io/github/actions/workflow/status/Andx667/kam_compat_zen/check.yml?style=flat-square&label=Check" alt="Check">
-    <img src="https://img.shields.io/github/actions/workflow/status/Andx667/kam_compat_zen/validate.yml?style=flat-square&label=Validate" alt="Validate">
+    <img src="https://img.shields.io/github/actions/workflow/status/Andx667/kam-compat-zen/check.yml?style=flat-square&label=Check" alt="Check">
+    <img src="https://img.shields.io/github/actions/workflow/status/Andx667/kam-compat-zen/validate.yml?style=flat-square&label=Validate" alt="Validate">
 </p>
 
 __Requires__ [CBA_A3](https://github.com/CBATeam/CBA_A3), [ACE3](https://github.com/acemod/ACE3), [KAT - Advanced Medical (KAM)](https://github.com/KAT-Advanced-Medical/KAM), and [Zeus Enhanced (ZEN)](https://github.com/zen-mod/ZEN).

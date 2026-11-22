@@ -9,7 +9,7 @@ class CfgPatches {
         requiredAddons[] = {"cba_main", "ace_main", "kat_main", "zen_main", "zen_context_menu"};
         author = "Andx";
         authors[] = {"Andx"};
-        url = "https://github.com/Andx667/kam_compat_zen";
+        url = "https://github.com/Andx667/kam-compat-zen";
         VERSION_CONFIG;
     };
 };
@@ -24,7 +24,7 @@ class CfgMods {
         hidePicture = "true";
         hideName = "true";
         actionName = "Website";
-        action = "https://github.com/Andx667/kam_compat_zen";
+        action = "https://github.com/Andx667/kam-compat-zen";
         description = "Compatibility patch between KAT - Advanced Medical (KAM) and Zeus Enhanced (ZEN).";
     };
 };
